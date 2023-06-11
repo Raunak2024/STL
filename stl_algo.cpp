@@ -8,7 +8,7 @@ int main(){
     v.push_back(2);
     v.push_back(5);
     v.push_back(6);
-    // BINARY SEARCH IMPLEMENTATION USING BEGIN AND END ITERATORS WITH THE ELEMENT TO BE SEARCH
+    // BINARY SEARCH IMPLEMENTATION USING BEGIN AND END ITERATORS WITH THE ELEMENT TO BE SEARCHED
     cout<<binary_search(v.begin(),v.end(),2)<<endl;
     int a=4;
     int b=6;
